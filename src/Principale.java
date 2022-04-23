@@ -2,13 +2,14 @@
  * 
  * @author maria
  * 
- * @version 2.0
+ * @version 3.0
+ * modificato online
  *
  */
 public class Principale {
 	
 	public static void main(String args[]) {
-		System.out.println("prova 2");
+		System.out.println("prova 3");
 	}
 
 }
